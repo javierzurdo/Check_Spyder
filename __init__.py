@@ -4,7 +4,6 @@ Created on Fri March 14 18:28:36 2025
 
 @author: Javier S. Zurdo
 """
-
 # git config --global user.email "xxxx@gmail.com"
 # git config --global user.name xxxx
 
