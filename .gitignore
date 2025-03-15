@@ -1,1 +1,5 @@
+# https://www.turing.com/kb/how-to-create-pypi-packages
+# python setup.py sdist
+# twine upload dist/*
 .venv/
+check_spyder.egg-info/
