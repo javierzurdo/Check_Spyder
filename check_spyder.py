@@ -4,7 +4,8 @@ Created on Fri March 14 18:28:36 2025
 
 @author: Javier S. Zurdo
 @module: Check if Spyder is enabled or not.
-
+git config --global user.email y*********@gmail.com
+git config --global user.name Y*********
 """
 
 #%% ------------ Libraries -----------------
