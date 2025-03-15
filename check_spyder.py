@@ -13,7 +13,7 @@ import os
 #%% ------------ Classes -------------------
 # ------------------------------------------
 class Check_Spyder:
-    def check(self, test_type:str='environment_variables'):
+    def check(self, test_type:str='environment_variables')->bool:
         is_spyder = False
         # Checking environment variables
         if test_type == 'environment_variables':
