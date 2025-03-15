@@ -10,7 +10,7 @@ Created on Fri March 14 18:28:36 2025
 #%% ------------ Libraries -----------------
 # ------------------------------------------
 # __init__.py
-from .check_spyder.py import Check_Spyder
+from .check_spyder import Check_Spyder
 
 #%% ------------ Classes -------------------
 # ------------------------------------------
