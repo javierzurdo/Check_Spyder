@@ -3,7 +3,7 @@
 Created on Fri March 14 18:28:36 2025
 
 @author: Javier S. Zurdo
-@module: Check if Spyder is enabled or not. 
+@module: Check if Spyder is enabled or not.
 
 """
 

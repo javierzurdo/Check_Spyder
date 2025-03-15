@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(
+setup( 
     name='check_spyder',
     version='0.1',
     packages=['check_spyder'],
